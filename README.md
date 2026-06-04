@@ -32,3 +32,11 @@ Core Features:
 
 4.) Interactive Console Layout :
     The system prints out a clean text-based map of the seating arrangement. It shows exactly which seats are free and which ones are occupied, making it easy to      visualize the occupancy of any trip.
+
+Tech Stack :
+Language:          C++ (Object-Oriented Programming)
+Data Management:   C++ Standard Template Library (Vectors, Heaps, and Hash Maps for quick lookups)
+
+Key Learnings :
+Real-World Logic:          Learned how to translate complex business rules—like live surge pricing and automated waitlist tracking—into clean, reliable object-                               oriented code.
+Smart Data Choices:        It showed me how picking the right structure (like Heaps for instant seat allocation and Maps for quick passenger lookups) completely                              changes how fast a system runs.
