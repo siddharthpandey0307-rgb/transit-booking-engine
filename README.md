@@ -43,6 +43,7 @@ I wanted to build a backend system that handles real-world booking logic efficie
 [  Tech Stack : ]
 
 Language :          C++ (Object-Oriented Programming)
+
 Data Management :   C++ Standard Template Library (Vectors, Heaps, and Hash Maps for quick lookups)
 
 [  Key Learnings : ]
