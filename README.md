@@ -5,7 +5,7 @@ Project Walkthrough & Demo
 
 [Watch the Project Demo Video here] :https://drive.google.com/file/d/1N54lotugR2VaB-2kjZJKdWBTSOfKnRj0/view?usp=sharing
 
-{Why I Built This :]
+[  Why I Built This :]
 
 Most basic reservation projects use simple arrays or basic lists to handle bookings. While that works for small assignments, it fails in the real world when hundreds of passengers try to book or cancel tickets simultaneously.
 I wanted to build a backend system that handles real-world booking logic efficiently. The goal was to solve three specific problems:
@@ -16,7 +16,7 @@ I wanted to build a backend system that handles real-world booking logic efficie
 
 3.) Smart Cancellations:        If someone cancels a ticket, their seat should immediately become available for the next person, or go straight to the person                                      waiting next in line.
 
-[Core Features:]
+[  Core Features:]
 
 1.) Smart Seat Assignment : 
     Instead of picking seats randomly, the engine uses a priority system to always offer the lowest-numbered free seat first. If a passenger cancels their ticket,     that specific seat goes straight back into the pool and is automatically offered to the very next buyer.
@@ -40,13 +40,13 @@ I wanted to build a backend system that handles real-world booking logic efficie
 4.) Interactive Console Layout :
     The system prints out a clean text-based map of the seating arrangement. It shows exactly which seats are free and which ones are occupied, making it easy to      visualize the occupancy of any trip.
 
-[Tech Stack :]
+[  Tech Stack :]
 
-Language:          C++ (Object-Oriented Programming)
-Data Management:   C++ Standard Template Library (Vectors, Heaps, and Hash Maps for quick lookups)
+Language :          C++ (Object-Oriented Programming)
+Data Management :   C++ Standard Template Library (Vectors, Heaps, and Hash Maps for quick lookups)
 
-[Key Learnings :]
+[  Key Learnings :]
 
-Real-World Logic:          Learned how to translate complex business rules—like live surge pricing and automated waitlist tracking—into clean, reliable object-                               oriented code.
+Real-World Logic :          Learned how to translate complex business rules—like live surge pricing and automated waitlist tracking—into clean, reliable object-                               oriented code.
 
-Smart Data Choices:        It showed me how picking the right structure (like Heaps for instant seat allocation and Maps for quick passenger lookups) completely                              changes how fast a system runs.
+Smart Data Choices :        It showed me how picking the right structure (like Heaps for instant seat allocation and Maps for quick passenger lookups) completely                              changes how fast a system runs.
