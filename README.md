@@ -3,7 +3,7 @@ A clean, high-performance console application that simulates a real-world bookin
 
 Project Demo :
 
-[Watch the Project Demo Video here] :https://drive.google.com/file/d/1N54lotugR2VaB-2kjZJKdWBTSOfKnRj0/view?usp=sharing
+[Watch the Project Demo Video here] : https://drive.google.com/file/d/1N54lotugR2VaB-2kjZJKdWBTSOfKnRj0/view?usp=sharing
 
 [  Why I Built This  ] :
 
