@@ -1,6 +1,5 @@
 # transit-booking-engine
-A high-performance C++ backend engine for airline and railway bookings featuring dynamic surge pricing and automated waitlist queues.
-
+A clean, high-performance console application that simulates a real-world booking system for airlines and railways. It handles everything from seat layout allocation to real-time ticket pricing adjustments based on demand.
 Project Walkthrough & Demo
 
 [Watch the Project Demo Video here] :https://drive.google.com/file/d/1N54lotugR2VaB-2kjZJKdWBTSOfKnRj0/view?usp=sharing
